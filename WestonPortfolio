@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        
+        <title> Jordan Weston's Portfolio</title>
+        <link rel="stylesheet" href="./Desktop/Challenges/Portfolio/style.css" />
+    </head>
+
+    <body>
+        <header>
+            <div><h1>Jordan Weston</h1></div>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#about-me">About Me</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+    </body>
+</html>
